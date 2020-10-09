@@ -1,5 +1,5 @@
 # Kpad
-A text editor made with python.(Having more features than notepad)
+A text editor made with python.(Having some more features than notepad)
 
 # Preview
 ![1st](https://user-images.githubusercontent.com/44257218/95504238-21338380-09ca-11eb-9d29-4500829d357a.png)
